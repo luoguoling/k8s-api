@@ -1,0 +1,4 @@
+{"level":"ERROR","time":"2022-01-20T11:39:29.374+0800","caller":"clientset/deployment.go:21","msg":"dao.clientset.deployment","error":"deployments.apps \"myapp-deploy\" not found"}
+{"level":"INFO","time":"2022-01-20T11:39:29.620+0800","caller":"clientset/service.go:67","msg":"dao.clientset.service 删除成功!!!"}
+{"level":"ERROR","time":"2022-01-20T11:51:18.199+0800","caller":"clientset/deployment.go:21","msg":"dao.clientset.deployment","error":"deployments.apps \"myapp-deploy\" not found"}
+{"level":"INFO","time":"2022-01-20T11:51:18.440+0800","caller":"clientset/service.go:67","msg":"dao.clientset.service 删除成功!!!"}
