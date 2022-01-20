@@ -4,7 +4,7 @@ log:
   filename: "k8s-api.log"
   max_size: 300
   max_age: 31
-  max_backups: 30
+  max_backups: 32
 k8sinfo:
   host: 121.5.106.77
   port: 9090
